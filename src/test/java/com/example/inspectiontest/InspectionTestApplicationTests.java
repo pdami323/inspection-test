@@ -16,11 +16,12 @@ class InspectionTestApplicationTests {
         String member2 = "b";
 
         // isEqualTo는 ==, isSameAs는 ref 비교
-//        Assertions.assertThat(member1).isEqualTo(member2);
+        Assertions.assertThat(member1).isEqualTo(member2);
         log.info("test");
         log.info("test2");
         log.info("test3");
         log.info("test4");
+        log.info("test5");
     }
 
 }
