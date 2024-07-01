@@ -1,0 +1,29 @@
+PMD Custom Rules History
+=========================
+
+Version: 1.0.0
+Date: 2024-07-01
+Author: [Your Name]
+Description: 최초작성
+
+--------------------------------------------------------------------------------
+#예시
+
+#Version: 1.0.0
+#Date: 2024-07-01
+#Author: [Your Name]
+#Description: Initial creation of custom PMD rules.
+
+#Rules Added:
+#1. Rule ID: CustomRule1
+#   Description: Check for specific coding standards.
+
+#Rules Updated:
+#1. Rule ID: CustomRule1
+#   Description: Updated to include static methods.
+
+#Rules Removed:
+#1. Rule ID: CustomRule3
+#   Description: Deprecated rule for variable naming.
+
+--------------------------------------------------------------------------------
