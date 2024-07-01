@@ -21,7 +21,6 @@ class InspectionTestApplicationTests {
         log.info("test2");
         log.info("test3");
         log.info("test4");
-        log.info("test5");
     }
 
 }
