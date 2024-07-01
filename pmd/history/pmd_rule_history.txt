@@ -10,18 +10,21 @@ Description: 최초작성
 #예시
 
 #Version: 1.0.0
-#Date: 2024-07-01
-#Author: [Your Name]
-#Description: Initial creation of custom PMD rules.
+#Date: 변경 날짜
+#Author: 변경한 사람
+#Description: 변경사항에 대한 설명
 
+# Rule을 추가한 경우
 #Rules Added:
 #1. Rule ID: CustomRule1
 #   Description: Check for specific coding standards.
 
+# 기존의 Rule을 업데이트한 경우
 #Rules Updated:
 #1. Rule ID: CustomRule1
 #   Description: Updated to include static methods.
 
+# 기존의 Rule을 제거한 경우
 #Rules Removed:
 #1. Rule ID: CustomRule3
 #   Description: Deprecated rule for variable naming.
