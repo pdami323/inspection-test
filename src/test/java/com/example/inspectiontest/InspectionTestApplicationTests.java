@@ -19,6 +19,7 @@ class InspectionTestApplicationTests {
 //        Assertions.assertThat(member1).isEqualTo(member2);
         log.info("test");
         log.info("test2");
+        log.info("test3");
     }
 
 }
