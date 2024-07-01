@@ -18,7 +18,6 @@ class InspectionTestApplicationTests {
         // isEqualTo는 ==, isSameAs는 ref 비교
 //        Assertions.assertThat(member1).isEqualTo(member2);
         log.info("test");
-        log.info("test2");
     }
 
 }
